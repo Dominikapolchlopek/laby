@@ -8,6 +8,8 @@ Qui-Gon Jinn & Obi-Wan Kenobi
 
 Qui-Gon Jinn and Obi-Wan Kenobi share a significant and pivotal relationship in the Star Wars saga. Their bond is explored in "Star Wars: Episode I - The Phantom Menace," which is the first installment in the prequel trilogy.
 
+.. figure:: \Users\domi\OneDrive\Pulpit\programing\laby\techn\qui and obi.jpg
+   :align: center
 
 Master and Apprentice Dynamic
 ---------------------------------------------------------------------
