@@ -71,11 +71,10 @@ The relationship between Obi-Wan Kenobi and Anakin Skywalker is a central narrat
 Anakin Skywalker & Ahsoka Tano
 =====================================================
 
+The relationship between Anakin Skywalker and Ahsoka Tano is a significant and deeply personal aspect of the Star Wars animated series "Star Wars: The Clone Wars." Ahsoka Tano is introduced as Anakin's Padawan (apprentice) in the series, and their dynamic plays a crucial role in the development of both characters.
+
 .. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\ahsoka and ani 1.0.jpg
    :align: center
-
-
-The relationship between Anakin Skywalker and Ahsoka Tano is a significant and deeply personal aspect of the Star Wars animated series "Star Wars: The Clone Wars." Ahsoka Tano is introduced as Anakin's Padawan (apprentice) in the series, and their dynamic plays a crucial role in the development of both characters.
 
 Master and Apprentice
 ------------------------------------------------------------------------
