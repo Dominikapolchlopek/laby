@@ -39,6 +39,9 @@ Obi-Wan Kenobi & Anakin Skywalker
 
 The relationship between Obi-Wan Kenobi and Anakin Skywalker is a central and complex element in the Star Wars saga, particularly in the prequel trilogy.
 
+.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\ani and obi.jpg
+   :align: center
+
 Master and Apprentice
 ---------------------------------------------------------------------
 Obi-Wan becomes the Jedi Master to Anakin after the death of Qui-Gon Jinn. The Master-Apprentice relationship is a crucial aspect of Jedi training, and Obi-Wan takes on the responsibility of guiding Anakin's development as a Jedi.
@@ -68,6 +71,8 @@ The relationship between Obi-Wan Kenobi and Anakin Skywalker is a central narrat
 Anakin Skywalker & Ahsoka Tano
 =====================================================
 
+.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\ahsoka and ani 1.0.jpg
+   :align: center
 
 The relationship between Anakin Skywalker and Ahsoka Tano is a significant and deeply personal aspect of the Star Wars animated series "Star Wars: The Clone Wars." Ahsoka Tano is introduced as Anakin's Padawan (apprentice) in the series, and their dynamic plays a crucial role in the development of both characters.
 
@@ -86,6 +91,9 @@ Anakin and Ahsoka share many adventures and battles during the Clone Wars. These
 Ahsoka's Departure
 ---------------------------------------------------------------------------
 One of the most emotional moments in their relationship occurs when Ahsoka is falsely accused of a bombing and decides to leave the Jedi Order. Despite Anakin's efforts to prove her innocence, Ahsoka feels betrayed by the Jedi Council and chooses to walk away. This departure is a heartbreaking moment for both characters, as Anakin struggles with the loss of his Padawan.
+
+.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\aksoka and ani 2.jpg
+   :align: center
 
 Reunion in "Star Wars Rebels"
 ---------------------------------------------------------------------
