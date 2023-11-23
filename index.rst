@@ -8,8 +8,9 @@ Qui-Gon Jinn & Obi-Wan Kenobi
 
 Qui-Gon Jinn and Obi-Wan Kenobi share a significant and pivotal relationship in the Star Wars saga. Their bond is explored in "Star Wars: Episode I - The Phantom Menace," which is the first installment in the prequel trilogy.
 
-.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\qui and obi.jpg
+.. figure:: ./tech/qui and obi.jpg
    :align: center
+   Qui-Gon Jinn (on left) and Obi-Wan Kenobi (on right)
 
 Master and Apprentice Dynamic
 ---------------------------------------------------------------------
@@ -39,8 +40,9 @@ Obi-Wan Kenobi & Anakin Skywalker
 
 The relationship between Obi-Wan Kenobi and Anakin Skywalker is a central and complex element in the Star Wars saga, particularly in the prequel trilogy.
 
-.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\ani and obi.jpg
+.. figure:: .\techn\ani and obi.jpg
    :align: center
+   Obi-Wan Kenobi (on left) and Anakin Skywalker (on right)
 
 Master and Apprentice
 ---------------------------------------------------------------------
@@ -73,8 +75,9 @@ Anakin Skywalker & Ahsoka Tano
 
 The relationship between Anakin Skywalker and Ahsoka Tano is a significant and deeply personal aspect of the Star Wars animated series "Star Wars: The Clone Wars." Ahsoka Tano is introduced as Anakin's Padawan (apprentice) in the series, and their dynamic plays a crucial role in the development of both characters.
 
-.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\ahsoka and ani 1.0.jpg
+.. figure:: .\techn\ahsoka and ani 1.0.jpg
    :align: center
+   Anakin Skywalker (on left) and  Ahsoka Tano (on right)
 
 Master and Apprentice
 ------------------------------------------------------------------------
@@ -94,6 +97,7 @@ One of the most emotional moments in their relationship occurs when Ahsoka is fa
 
 .. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\aksoka and ani 2.jpg
    :align: center
+   Anakin Skywalker (on right) and  Ahsoka Tano (on left)
 
 Reunion in "Star Wars Rebels"
 ---------------------------------------------------------------------
