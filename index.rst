@@ -95,7 +95,7 @@ Ahsoka's Departure
 ---------------------------------------------------------------------------
 One of the most emotional moments in their relationship occurs when Ahsoka is falsely accused of a bombing and decides to leave the Jedi Order. Despite Anakin's efforts to prove her innocence, Ahsoka feels betrayed by the Jedi Council and chooses to walk away. This departure is a heartbreaking moment for both characters, as Anakin struggles with the loss of his Padawan.
 
-.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\aksoka and ani 2.jpg
+.. figure:: .\techn\aksoka and ani 2.jpg
    :align: center
    Anakin Skywalker (on right) and  Ahsoka Tano (on left)
 
