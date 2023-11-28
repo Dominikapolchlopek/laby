@@ -10,6 +10,7 @@ Qui-Gon Jinn and Obi-Wan Kenobi share a significant and pivotal relationship in 
 
 .. figure:: ./techn/qui_and_obi.jpg
    :align: center
+
    Qui-Gon Jinn (on left) and Obi-Wan Kenobi (on right)
 
 Master and Apprentice Dynamic
@@ -42,6 +43,7 @@ The relationship between Obi-Wan Kenobi and Anakin Skywalker is a central and co
 
 .. figure:: ./techn/ani_and_obi.jpg
    :align: center
+
    Obi-Wan Kenobi (on left) and Anakin Skywalker (on right)
 
 Master and Apprentice
@@ -77,6 +79,7 @@ The relationship between Anakin Skywalker and Ahsoka Tano is a significant and d
 
 .. figure:: ./techn/ahsoka_and_ani_1.0.jpg
    :align: center
+
    Anakin Skywalker (on left) and  Ahsoka Tano (on right)
 
 Master and Apprentice
@@ -97,6 +100,7 @@ One of the most emotional moments in their relationship occurs when Ahsoka is fa
 
 .. figure:: ./techn/aksoka_and_ani_2.jpg
    :align: center
+
    Anakin Skywalker (on right) and  Ahsoka Tano (on left)
 
 Reunion in "Star Wars Rebels"
