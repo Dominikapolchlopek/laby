@@ -8,8 +8,10 @@ Qui-Gon Jinn & Obi-Wan Kenobi
 
 Qui-Gon Jinn and Obi-Wan Kenobi share a significant and pivotal relationship in the Star Wars saga. Their bond is explored in "Star Wars: Episode I - The Phantom Menace," which is the first installment in the prequel trilogy.
 
-.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\qui and obi.jpg
+.. figure:: ./techn/qui_and_obi.jpg
    :align: center
+
+   Qui-Gon Jinn (on left) and Obi-Wan Kenobi (on right)
 
 Master and Apprentice Dynamic
 ---------------------------------------------------------------------
@@ -39,8 +41,10 @@ Obi-Wan Kenobi & Anakin Skywalker
 
 The relationship between Obi-Wan Kenobi and Anakin Skywalker is a central and complex element in the Star Wars saga, particularly in the prequel trilogy.
 
-.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\ani and obi.jpg
+.. figure:: ./techn/ani_and_obi.jpg
    :align: center
+
+   Obi-Wan Kenobi (on left) and Anakin Skywalker (on right)
 
 Master and Apprentice
 ---------------------------------------------------------------------
@@ -73,8 +77,10 @@ Anakin Skywalker & Ahsoka Tano
 
 The relationship between Anakin Skywalker and Ahsoka Tano is a significant and deeply personal aspect of the Star Wars animated series "Star Wars: The Clone Wars." Ahsoka Tano is introduced as Anakin's Padawan (apprentice) in the series, and their dynamic plays a crucial role in the development of both characters.
 
-.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\ahsoka and ani 1.0.jpg
+.. figure:: ./techn/ahsoka_and_ani_1.0.jpg
    :align: center
+
+   Anakin Skywalker (on left) and  Ahsoka Tano (on right)
 
 Master and Apprentice
 ------------------------------------------------------------------------
@@ -93,8 +99,10 @@ Ahsoka's Departure
 
 One of the most emotional moments in their relationship occurs when Ahsoka is falsely accused of a bombing and decides to leave the Jedi Order. Despite Anakin's efforts to prove her innocence, Ahsoka feels betrayed by the Jedi Council and chooses to walk away. This departure is a heartbreaking moment for both characters, as Anakin struggles with the loss of his Padawan.
 
-.. figure:: C:\Users\domi\OneDrive\Pulpit\programing\laby\techn\aksoka and ani 2.jpg
+.. figure:: ./techn/aksoka_and_ani_2.jpg
    :align: center
+
+   Anakin Skywalker (on right) and  Ahsoka Tano (on left)
 
 Reunion in "Star Wars Rebels"
 ---------------------------------------------------------------------
@@ -105,4 +113,3 @@ Impact on Anakin's Character
 Ahsoka's departure and the events that follow contribute to Anakin's growing disillusionment with the Jedi Order and its leadership. The loss of Ahsoka is a personal and symbolic turning point in Anakin's journey toward the dark side of the Force.
 
 The relationship between Anakin Skywalker and Ahsoka Tano adds depth and emotional resonance to the broader Star Wars narrative. Their bond explores themes of mentorship, loyalty, and the personal toll of war on individuals within the Jedi Order.
-[dasd]
