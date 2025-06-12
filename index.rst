@@ -113,6 +113,5 @@ Ahsoka's departure and the events that follow contribute to Anakin's growing dis
 
 The relationship between Anakin Skywalker and Ahsoka Tano adds depth and emotional resonance to the broader Star Wars narrative. Their bond explores themes of mentorship, loyalty, and the personal toll of war on individuals within the Jedi Order^[1].
 
-.. rubric:: Footnotes
 
 [1]: jijij
