@@ -111,7 +111,7 @@ Impact on Anakin's Character
 ----------------------------------------------------------------------
 Ahsoka's departure and the events that follow contribute to Anakin's growing disillusionment with the Jedi Order and its leadership. The loss of Ahsoka is a personal and symbolic turning point in Anakin's journey toward the dark side of the Force.
 
-The relationship between Anakin Skywalker and Ahsoka Tano adds depth and emotional resonance to the broader Star Wars narrative. Their bond explores themes of mentorship, loyalty, and the personal toll of war on individuals within the Jedi Order[#1].
+The relationship between Anakin Skywalker and Ahsoka Tano adds depth and emotional resonance to the broader Star Wars narrative. Their bond explores themes of mentorship, loyalty, and the personal toll of war on individuals within the Jedi Order[#1]_.
 
 .. rubric:: Footnotes
 
